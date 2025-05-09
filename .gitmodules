@@ -1,0 +1,28 @@
+[submodule "Web-Client-Development-Exercise-1"]
+	path = Web-Client-Development-Exercise-1
+	url = https://github.com/sentotAB/Web-Client-Development-Exercise-1.git
+[submodule "Web-Client-Development-Exercise-2"]
+	path = Web-Client-Development-Exercise-2
+	url = https://github.com/sentotAB/Web-Client-Development-Exercise-2.git
+[submodule "Web-Client-Development-Exercise-3"]
+	path = Web-Client-Development-Exercise-3
+	url = https://github.com/sentotAB/Web-Client-Development-Exercise-3.git
+[submodule "Exercise_4_React-Tailwind"]
+	path = Exercise_4_React-Tailwind
+	url = https://github.com/sentotAB/Exercise_4_React-Tailwind.git
+[submodule "Exercise_5_Pokemon-App-React-Hooks"]
+	path = Exercise_5_Pokemon-App-React-Hooks
+	url = https://github.com/sentotAB/Exercise_5_Pokemon-App-React-Hooks.git
+[submodule "Exercise_6_Pokemon-App-State-Management"]
+	path = Exercise_6_Pokemon-App-State-Management
+	url = https://github.com/sentotAB/Exercise_6_Pokemon-App-State-Management.git 
+
+
+
+
+
+
+
+
+
+
